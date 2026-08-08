@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-top5mj.keitaro-tech-rtb.online/sitemap.xml
